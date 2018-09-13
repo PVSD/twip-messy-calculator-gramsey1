@@ -11,18 +11,19 @@ public class Main {
         if (add) {
             System.out.println("What numbers do you want to add?");
             String numbers = kbReader.nextLine();
-            double d = numbers
-                    double sqrt
-        }
-            System.out.println("The sum of  Are you satisfied?");
+            String d = numbers;
+            double sqrt(d);
+
+            String combo = d;
+            System.out.println("The sum of " + d + " is " + d + "you satisfied?");
             String satisfied = kbReader.nextLine();
             Boolean no = true;
-            if (no) {
-                System.out.println("Can you identify what math class method I ran the real answer through?");
-                String identify = kbReader.nextLine();
-                Boolean sqrt = true;
-                if (sqrt) {
-                    System.out.println("Great! Good job and goodbye!");
+            {
+                if (no) {
+                    System.out.println("Can you identify what math class method I ran the real answer through?");
+                    String identify = kbReader.nextLine();
+
+
                 }
             }
         }
